@@ -1,0 +1,7 @@
+workspace/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.bak
+.DS_Store
